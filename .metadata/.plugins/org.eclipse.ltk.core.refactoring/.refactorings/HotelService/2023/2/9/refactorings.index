@@ -1,0 +1,11 @@
+1677577947114	Rename package 'com.magic.user.service'
+1677577982128	Rename package 'com.magic.user.service.controllers'
+1677577995125	Rename package 'com.magic.user.service.entites'
+1677578012333	Rename package 'com.magic.user.service.exceptions'
+1677578023256	Rename package 'com.magic.user.service.payload'
+1677578034137	Rename package 'com.magic.user.service.repositories'
+1677578051598	Rename package 'com.magic.user.service.services'
+1677578078396	Rename package 'com.magic.user.hotel.repositories'
+1677578111622	Rename package 'com.magic.user.service.services.impl'
+1677578122793	Rename package 'com.magic.user.service.Vo'
+1677581092862	Delete element
